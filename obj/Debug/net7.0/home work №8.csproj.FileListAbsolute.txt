@@ -1,0 +1,15 @@
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.csproj.AssemblyReference.cache
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.AssemblyInfoInputs.cache
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.AssemblyInfo.cs
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.csproj.CoreCompileInputs.cache
+C:\Users\Пушка\Desktop\home work №8\bin\Debug\net7.0\home work №8.exe
+C:\Users\Пушка\Desktop\home work №8\bin\Debug\net7.0\home work №8.deps.json
+C:\Users\Пушка\Desktop\home work №8\bin\Debug\net7.0\home work №8.runtimeconfig.json
+C:\Users\Пушка\Desktop\home work №8\bin\Debug\net7.0\home work №8.dll
+C:\Users\Пушка\Desktop\home work №8\bin\Debug\net7.0\home work №8.pdb
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.dll
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\refint\home work №8.dll
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.pdb
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\home work №8.genruntimeconfig.cache
+C:\Users\Пушка\Desktop\home work №8\obj\Debug\net7.0\ref\home work №8.dll
